@@ -1,1 +1,1 @@
-add new-1.txt by user2
+modify add new-1.txt by user1
